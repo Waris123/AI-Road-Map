@@ -1,0 +1,8 @@
+C:\Users\waris.anjum\AppData\Local\Python\bin
+
+Add above path to env variable path
+
+
+git remote add origin https://github.com/Waris123/AI-Road-Map.git
+git branch -M main
+git push -u origin main
